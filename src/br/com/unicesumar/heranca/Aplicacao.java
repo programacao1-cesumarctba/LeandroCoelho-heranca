@@ -1,7 +1,5 @@
 package br.com.unicesumar.heranca;
 
-import br.com.unicesumar.heranca.exception.DepositoException;
-import br.com.unicesumar.heranca.model.Conta;
 import br.com.unicesumar.heranca.model.ContaEspecial;
 import br.com.unicesumar.heranca.model.ContaSalario;
 
